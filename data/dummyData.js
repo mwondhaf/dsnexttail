@@ -1,0 +1,81 @@
+export const sliderImages = [
+  {
+    id: 1,
+    service: "Guarding Services",
+    icon: "faPersonMilitaryPointing",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.unsplash.com/photo-1654874333723-da6e6aa9fe89?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
+  },
+  {
+    id: 2,
+    service: "Escort Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.unsplash.com/photo-1652666545183-1c7e78f8fc82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+  },
+  {
+    id: 3,
+    service: "K9 Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.unsplash.com/photo-1511816628855-8a3d86e8f674?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1744&q=80",
+  },
+  {
+    id: 4,
+    service: "Cyber Security",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.unsplash.com/photo-1632910138458-5bf601f3835e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2062&q=80",
+  },
+  {
+    id: 5,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 6,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 7,
+    service: "Cyber Security",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 8,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 9,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 10,
+    service: "Cyber Security",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 11,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 12,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+  {
+    id: 13,
+    service: "Security Services",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    src: "https://images.pexels.com/photos/5380792/pexels-photo-5380792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  },
+];
